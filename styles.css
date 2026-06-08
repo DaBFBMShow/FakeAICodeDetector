@@ -1,0 +1,15 @@
+body {
+    align-content: center;
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+form {
+    width: 100%
+    padding: 20px;
+}
